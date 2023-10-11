@@ -5,6 +5,8 @@
 ------------------------------------------------------------------------------
 
 -- 4.00
+--🤣🤣😭😭😭😭😭
+-- crybaby haha
 -- Mechanics:
 -- Condemn now does 100 dmg (affected by Religious Strength) to religious units
 -- Condemn mechanics now also reduce loyalty (-15) in your nearby cities (6 range) if they have the majority religion of the condemned units
